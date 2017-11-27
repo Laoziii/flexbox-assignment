@@ -1,0 +1,83 @@
+[class^="box"]{
+    background: black;
+    font-size: 100px;
+    color: white;
+    height: 24%;
+
+}
+
+.flex{
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.box1{
+    width: 100%
+}
+
+.box2{
+    width: 49%;
+}
+
+.box3{
+    width: 49%;
+}
+
+.box4{
+    width: 20%;
+}
+
+.box5{
+    width: 25%;
+}
+
+.box6{
+    width: 25%;
+}
+
+.box7{
+   width: 25%; 
+}
+
+.box8{
+   width: 33%; 
+}
+
+.box9{
+    width: 33%
+}
+
+.box10{
+    width: 33%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
